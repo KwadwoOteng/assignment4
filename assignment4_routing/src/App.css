@@ -1,0 +1,27 @@
+.navList {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header {
+  display: flex;
+}
+
+.headerTitle {
+  width: 30%;
+}
+
+.navBar {
+  width: 70%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.listItem {
+  list-style: none;
+  font-weight: bold;
+  font-size: 2rem;
+  color: brown;
+}
